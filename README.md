@@ -13,10 +13,10 @@
 Welcome to the Blood Bank Management System, a Java-based application designed to simplify the management of blood donations, donor information, stock increase/decrease, and inventory. This system is developed to enhance the efficiency and accessibility of blood donation processes. There are two two ways to login, the first one is by Admin and the seconf one is by User. User can only be able to add his/her record but there are several functionalities for Admin to perfrom many activities such as add donor, update donor details, view and print all donor details, serach donor by location or by blood group, Increase or Decrease the stock of blood groups, and Delete any donor by donorID. There are login and signup pages. new donor will first create the account and then he/she can be able to add his/her data.
 
 # Home page(For Admin only)
-![home](https://github.com/Khan-Sahil111/Blood-Bank-Management-System-in-Java/assets/150063655/1082b5ac-34ea-4730-bfea-027acf3a6263)
+![home](https://github.com/Khan-Sahil111/Blood-Bank-Management-System/assets/150063655/86e8dda9-28c4-43d2-bd81-bb7f5e0bbefa)
 
 # Home page(For User)
-![addNewDonor](https://github.com/Khan-Sahil111/Blood-Bank-Management-System-in-Java/assets/150063655/bf8ce7d0-0bd9-4bf2-9bc8-62df8ad2f27c)
+![addNewDonor](https://github.com/Khan-Sahil111/Blood-Bank-Management-System/assets/150063655/02471621-e064-4fef-afc4-ec6295403ca1)
 
 
 ## Features
